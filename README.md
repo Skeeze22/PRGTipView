@@ -95,10 +95,6 @@ PRGTipViewConfiguration contains properties that help customize the presenting t
 
 At the time of publishing PRGTipView, the Pulsar library has not been updated on the Cocoapods repositories and cannot be used as a direct dependency, thus resorting in including the v2.0.5 source code in the bundle. As soon as the dependencies are satisfied via Cocoapods, we will update PRGTipView to use Pulsar as a pod dependency.
 
-## Author
-
-John Spiropoulos, jspiropoulos@programize.com
-
 ## License
 
 PRGTipView is made for [Programize LLC](https://www.programize.com) by John Spiropoulos and it is available under the MIT license.
